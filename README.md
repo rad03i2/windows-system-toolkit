@@ -16,3 +16,8 @@ A beginner-friendly toolkit for reading system information, checking storage, an
 ## Safe by design
 
 Cleanup scripts run in preview mode first. They print what could be removed instead of deleting files immediately.
+
+## Official links
+
+- Portfolio: https://rdwan.dev
+- Project page: https://rdwan.dev/projects/07-windows-system-toolkit.html
